@@ -10,6 +10,7 @@
 		<div>borrado</div>
 		<p>.</p>
 
+		<div>borrado</div>
 	</body>
 </html>
 
